@@ -1,0 +1,6 @@
+Project 1: Treeman
+
+The grass and the tree will grow up on rainy days. After they grep up, the sun will show up, the background will 
+be brighter, and the tree will have a face. The sun will keep moving in a certain location, if you move the watering
+can (cursor) to the leaf of the tree, the tree will change its emotion. When you pressed the left mouse button, the 
+apple will fell down from the top of the screen.
