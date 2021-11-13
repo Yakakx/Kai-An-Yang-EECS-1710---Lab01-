@@ -1,0 +1,1 @@
+The ellipse pixel of the picture will change their size and density by the change of the mouseX (the position of the mouse when it moves horizontally). When you click any key on your keyboard, the current image will be saved in your computer, when you click your mouse button, the background and the pixel color will change randomly.
