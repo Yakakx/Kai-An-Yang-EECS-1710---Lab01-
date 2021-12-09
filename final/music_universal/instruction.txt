@@ -1,0 +1,1 @@
+This is the program that uses four different effects to present the interaction of audio and image. Users can use different keys to change the effect shown on the screen those are '1', '2', '3' and '4'. When the user pressed the mouse, the image on the screen will be saved into the folder. 
